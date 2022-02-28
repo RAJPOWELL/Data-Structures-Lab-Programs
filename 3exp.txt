@@ -13,7 +13,7 @@ int choice;
 while(choice)
 {
 printf("\n\n--------STACK OPERATIONS-----------\n");
-printf("1.Push\n");
+
 printf("2.Pop\n");
 printf("3.Palindrome\n");
 printf("4.Display\n");
