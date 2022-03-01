@@ -11,7 +11,7 @@ void main()
     printf("Enter the String \n");
     scanf("%s", &str);
 check:
-    printf("Enter a valid Pattern to Search \n");
+    printf("Enter  valid Pattern to Search \n");
     scanf("%s", &pat);
     end = patCheck(str, pat);
     if (end == 0)
