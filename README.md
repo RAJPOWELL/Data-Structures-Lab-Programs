@@ -15,7 +15,7 @@ operations
 
 2)
 Design, Develop and Implement a Program in C for the
-following operations on Strings:
+following operations on Strings,
 a. Read a main String (STR), a Pattern String (PAT) and a
 Replace String (REP)
 b. Perform Pattern Matching Operation: Find and Replace all occurrences of
